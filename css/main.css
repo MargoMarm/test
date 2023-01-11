@@ -11,7 +11,8 @@ ul {
 .hero__section {
     max-width: 1200px;
     height: 664px;
-    background-image: url(../img/bg-hero-desk.jpg);
+    background-image: url(../img/bg-hero-desk.jpg),
+    url(../img/hero-points-mob.png);
 }
 
 .hero__title {
